@@ -26,7 +26,7 @@ public class HolaMundoActivity extends AppCompatActivity {
         swWhite = (Switch) findViewById(R.id.swBotonsito);        //Asignamos el switch creado al elemento gráfico
         cuadroTexto = (TextView) findViewById(R.id.txvTexto);
 
-        // Creamos el código
+        // Creamos el código que detectará un cambio en el switch, y cambiará el mensaje
         swWhite.setOnCheckedChangeListener(
                 new CompoundButton.OnCheckedChangeListener() {
                     @Override
