@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="nombreGeneral">No vayas a darle!</string>
+    <string name="mensajeDesactivado">Y ahora lo quitas?</string>
+    <string name="mensajeActivado">Pa que le das?</string>
+    <string name="nombreSwitch">Púlsame sensualmente</string>
+</resources>
